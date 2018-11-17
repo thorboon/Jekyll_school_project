@@ -1,0 +1,33 @@
+<div class="grid__wrapper footer__wrapper">
+    <div class="grid__container">
+        <div class="grid__row">
+            <div class="grid__column grid__column-bp1-12 grid__column-bp2-6 grid__column-bp3-4 grid__column-bp4-4 grid__column-bp5-4 footer_section">
+                <ul>
+                    {% for page in site.pages %}
+                    {% if page.title %}
+                    <li class="menu-item"><a href="{{ page.url | relative_url }}" data-scroll>{{ page.title }}</a></li>
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="grid__column grid__column-bp1-12 grid__column-bp2-6 grid__column-bp3-4 grid__column-bp4-4 grid__column-bp5-4 footer_section">
+                <ul>
+                    <li><a href=""><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i>Facebook</a></li>
+                    <li><a href=""><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>Twitter</li>
+                    <li><a href=""><i class="fa fa-youtube fa-2x" aria-hidden="true"></i>Youtube</a></li>
+                </ul>
+            </div>
+            <div class="grid__column grid__column-bp1-12 grid__column-bp2-12 grid__column-bp3-4 grid__column-bp4-4 grid__column-bp5-4 footer_section">
+                <ul>
+                    <li>Bedrijfjesweg 123</li>
+                    <li>Gent</li>
+                    <li>9000</li>
+                    <li>Belgium</li>
+                </ul>
+            </div>
+            <div class="grid__column grid__column-bp1-12 grid__column-bp2-12 grid__column-bp3-12 grid__column-bp4-12 grid__column-bp5-12 footer_section">
+                <p>© Copyright - Arteveldehogeschool Ghent 2017 - <a href="../disclaimer" class="disclaimer">Disclaimer</a></p>
+            </div>
+        </div>
+    </div>
+</div>

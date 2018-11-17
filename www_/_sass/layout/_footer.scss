@@ -1,0 +1,35 @@
+.footer__wrapper{
+  background-color: $dark-orange;
+}
+
+.footer_section{
+  margin-top: 10px;
+  padding-top: 5px;
+}
+
+.footer_section ul {
+  text-align: left;
+  text-decoration: none;
+  color:$white;
+  list-style: none;
+  list-style-position: inside;
+  margin-left: 0;
+}
+
+.footer_section ul li{
+}
+
+.footer_section ul li a{
+  text-decoration: none;
+  color:$white;
+}
+
+.footer_section p{
+  text-align: center;
+  color: $white;
+}
+
+.disclaimer{
+  font-weight: bolder;
+  color: $white;
+}

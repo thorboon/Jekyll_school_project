@@ -1,0 +1,6 @@
+markdown: redcarpet
+#baseurl: /folderongithub
+exclude: ['README.md']
+#permalink: pretty
+permalink: /:title/
+include: ['_pages']

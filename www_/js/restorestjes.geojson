@@ -1,0 +1,170 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.7427553,51.0550264 ]
+    },
+    "properties": {
+    "NAAM":"Alberte",
+    "STRAAT":"Dendermonsesteenweg ",
+    "HUISNR":78,
+    "HUISNRTOEV":"",
+    "POSTCODE":9000,
+    "DEELGEMEENTE":"Gent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.7249373,51.059594 ]
+    },
+    "properties": {
+    "NAAM":"Ambachtelijke Quiche Partiron",
+    "STRAAT":"Sluizeken",
+    "HUISNR":30,
+    "HUISNRTOEV":"",
+    "POSTCODE":9000,
+    "DEELGEMEENTE":"Gent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.7239433,51.0581177 ]
+    },
+    "properties": {
+    "NAAM":"Aspendos",
+    "STRAAT":"Oudburg",
+    "HUISNR":11,
+    "HUISNRTOEV":"",
+    "POSTCODE":9000,
+    "DEELGEMEENTE":"Gent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.7211389,51.0577087 ]
+    },
+    "properties": {
+    "NAAM":"Avalon",
+    "STRAAT":"Geldmunt",
+    "HUISNR":32,
+    "HUISNRTOEV":"",
+    "POSTCODE":9000,
+    "DEELGEMEENTE":"Gent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.7259343,51.0350919 ]
+    },
+    "properties": {
+    "NAAM":"Bar Italiano",
+    "STRAAT":"Zwijnaardsesteenweg",
+    "HUISNR":83,
+    "HUISNRTOEV":"",
+    "POSTCODE":9000,
+    "DEELGEMEENTE":"Gent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.730617,51.0572271 ]
+    },
+    "properties": {
+    "NAAM":"Baravins",
+    "STRAAT":"Steendam",
+    "HUISNR":53,
+    "HUISNRTOEV":"",
+    "POSTCODE":9000,
+    "DEELGEMEENTE":"Gent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.7154822,51.0436514 ]
+    },
+    "properties": {
+    "NAAM":"Baskuul",
+    "STRAAT":"Godshuizenlaan",
+    "HUISNR":77,
+    "HUISNRTOEV":"",
+    "POSTCODE":9000,
+    "DEELGEMEENTE":"Gent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.7228986,51.0577417 ]
+    },
+    "properties": {
+    "NAAM":"Casa de Las Tapas",
+    "STRAAT":"Corduwaniersstraat",
+    "HUISNR":41,
+    "HUISNRTOEV":"",
+    "POSTCODE":9000,
+    "DEELGEMEENTE":"Gent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.7343746,51.0462969 ]
+    },
+    "properties": {
+    "NAAM":"Corner House",
+    "STRAAT":"Lange Violettestraat",
+    "HUISNR":102,
+    "HUISNRTOEV":"",
+    "POSTCODE":9000,
+    "DEELGEMEENTE":"Gent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.73406,51.0567784 ]
+    },
+    "properties": {
+    "NAAM":"De Casserolle",
+    "STRAAT":"Dampoortstraat",
+    "HUISNR":5,
+    "HUISNRTOEV":"",
+    "POSTCODE":9000,
+    "DEELGEMEENTE":"Gent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.734441,51.0610977 ]
+    },
+    "properties": {
+    "NAAM":"De Centrale wereldrestaurant",
+    "STRAAT":"Kraankinderstraat",
+    "HUISNR":2,
+    "HUISNRTOEV":"",
+    "POSTCODE":9000,
+    "DEELGEMEENTE":"Gent"
+    }
+  }
+]
+}

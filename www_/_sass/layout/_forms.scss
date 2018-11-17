@@ -1,0 +1,53 @@
+.textbox{
+ border: solid 1px $dark-blue;
+  opacity: 0.6;
+}
+
+.small-textbox{
+  width: 600px;
+  height: 30px;
+  opacity: 0.6;
+}
+
+.big-textbox{
+ width: 600px;
+  height: 200px;
+  opacity: 0.6;
+}
+
+.select-element,
+.search-form{
+  background-color: transparent;
+  width: 400px;
+  height: 30px;
+  -webkit-border-radius: 1px;
+  -moz-border-radius: 1px;
+  border-radius: 1px;
+}
+
+
+#search-text {
+  width: 90%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 640px) {
+  .textbox,
+  .big-textbox,
+  .select-element,
+  .search-form{
+    width: 370px;
+  }
+}
+
+@media (max-width: 400px) {
+  .textbox,
+  .big-textbox,
+  .select-element,
+  .search-form{
+    width: 100%;
+  }
+
+}

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Alberte</name>
+<description>Dendermonsesteenweg  78</description>
+<Point><coordinates>3.7427553,51.0550264,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ambachtelijke Quiche Partiron</name>
+<description>Sluizeken 30</description>
+<Point><coordinates>3.7249373,51.059594,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Aspendos</name>
+<description>Oudburg 11</description>
+<Point><coordinates>3.7239433,51.0581177,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Avalon</name>
+<description>Geldmunt 32</description>
+<Point><coordinates>3.7211389,51.0577087,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bar Italiano</name>
+<description>Zwijnaardsesteenweg 83</description>
+<Point><coordinates>3.7259343,51.0350919,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Baravins</name>
+<description>Steendam 53</description>
+<Point><coordinates>3.730617,51.0572271,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Baskuul</name>
+<description>Godshuizenlaan 77</description>
+<Point><coordinates>3.7154822,51.0436514,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Casa de Las Tapas</name>
+<description>Corduwaniersstraat 41</description>
+<Point><coordinates>3.7228986,51.0577417,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Corner House</name>
+<description>Lange Violettestraat 102</description>
+<Point><coordinates>3.7343746,51.0462969,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>De Casserolle</name>
+<description>Dampoortstraat 5</description>
+<Point><coordinates>3.73406,51.0567784,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>De Centrale wereldrestaurant</name>
+<description>Kraankinderstraat 2</description>
+<Point><coordinates>3.734441,51.0610977,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

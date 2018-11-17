@@ -1,0 +1,33 @@
+#subnav{
+  margin-top: 50px;
+    background: $light-orange;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+#subnav ul {
+  list-style-type: none;
+  margin:0;
+  padding-left: 20%;
+  overflow: hidden;
+}
+
+#subnav ul li {
+  float: left;
+}
+
+#subnav ul li:hover {
+  background-color: $dark-orange;
+}
+
+#subnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+

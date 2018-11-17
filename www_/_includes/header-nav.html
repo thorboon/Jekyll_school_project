@@ -1,0 +1,14 @@
+<header>
+    <div id="header__logo"><a href="../{{page.title_home}}" class="logo" data-scroll></a></div>
+    <p class="page-title">{{ page.title }} {{page.title_contact}} {{page.title_disclaimer}}</p>
+    <nav class="nav-collapse">
+
+        <ul>
+            {% for page in site.pages %}
+            {% if page.title %}
+             <li><a href="{{ page.url | relative_url }}" data-scroll>{{ page.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </nav>
+</header>
